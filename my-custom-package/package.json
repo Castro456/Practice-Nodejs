@@ -1,0 +1,14 @@
+{
+  "name": "practive-node",
+  "version": "1.0.0",
+  "description": "practicing",
+  "main": "index.js",
+  "scripts": {
+    "greet": "node index.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "swap-case": "^3.0.3"
+  }
+}
