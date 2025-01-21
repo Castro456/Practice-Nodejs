@@ -34,4 +34,6 @@ module.exports = createServer
  * The above comment will automatically spans the workers according the needs.
  * It also can't spans more cluster than the PC's cpu cores.
  * 
+ * These workers will have their own memory and event loop
+ * 
  */
