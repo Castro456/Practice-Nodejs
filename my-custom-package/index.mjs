@@ -16,6 +16,7 @@ greet('happy')
  * 
  * npm uninstall swap-case
  * 
+ * npm init
  * 
  */
 // modules.exports = greet
